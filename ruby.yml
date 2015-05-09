@@ -1,0 +1,15 @@
+#################
+# Ruby Links
+#
+
+- title:      "How I Start Series - Ruby Edition - Let's build a Ruby gem together"
+  author:     Steve Klabnik
+  screenshot: how-i-start-320x240.png
+  link_url:   http://www.howistart.org/posts/ruby
+
+- title:      "Learn Ruby in Y Minutes - A whirlwind tour of Ruby - learnruby.rb"
+  author:     David Underwood et al
+  screenshot: learn-x-in-y-320x240.png
+  link_url:   http://learnxinyminutes.com/docs/ruby/
+
+
