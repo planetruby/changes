@@ -1,6 +1,11 @@
-#################
-# Ruby Links
+#############################
+# Ruby Links 'n' Bookmarks
 #
+
+- title:      "Idiosyncratic Ruby - A 31 parts story about Ruby specialities"
+  author:     Jan Lelis
+  screenshot: idiosyncratic-ruby-320x240.png
+  link_url:   http://idiosyncratic-ruby.com
 
 - title:      "How I Start Series - Ruby Edition - Let's build a Ruby gem together"
   author:     Steve Klabnik
@@ -12,4 +17,23 @@
   screenshot: learn-x-in-y-320x240.png
   link_url:   http://learnxinyminutes.com/docs/ruby/
 
+- title:      "Practicing Ruby - Delightful lessons for dedicated programmers"
+  author:     Gregory Brown et al
+  screenshot: practicing-ruby-320x240.png
+  link_url:   https://practicingruby.com
+
+- title:      "RubyBench - Long Running Ruby Benchmark"
+  author:     Sam Saffron et al
+  screenshot: rubybench-320x240.png
+  link_url:   http://rubybench.org
+
+- title:      "The Ruby Bibliography - Programming Language Research Papers 'n' Articles"
+  author:     Chris Seaton et al 
+  screenshot: rubybib-320x240.png
+  link_url:   http://rubybib.org
+
+- title:      "Ruby Quick Reference - Language, Standard Library, Tools"
+  author:     Ryan Davis
+  screenshot: rubyquickref-320x240.png
+  link_url:   http://www.zenspider.com/Languages/Ruby/QuickRef.html
 

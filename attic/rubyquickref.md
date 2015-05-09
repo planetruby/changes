@@ -1,16 +1,7 @@
 
-<!--
-layout:     link
-title:      "Ruby Quick Reference - Language, Standard Library, Tools"
-date:       2015-01-24 12:12
-screenshot: screenshot-rubyquickref-320x240.png
 link_url:   http://www.zenspider.com/Languages/Ruby/QuickRef.html
- -->
 
-
-## [{{page.title}}]({{page.link_url}})
-
-{% include screenshot.html %}
+## Ruby Quick Reference - Language, Standard Library, Tools
 
 The all-in-one Ruby Quick Reference page includes:
 

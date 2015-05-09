@@ -1,15 +1,7 @@
 
-<!--
-layout:     link
-title:      "Learn Ruby in Y Minutes - A whirlwind tour of Ruby - learnruby.rb"
-date:       2015-01-24 14:14
-screenshot: screenshot-learn-x-in-y-320x240.png
 link_url:   http://learnxinyminutes.com/docs/ruby/
- -->
 
-## [{{page.title}}]({{page.link_url}})
-
-{% include screenshot.html %}
+## Learn Ruby in Y Minutes - A whirlwind tour of Ruby - learnruby.rb
 
 The Learn X in Y Minutes series - Ruby Edition  lets you take a whirlwind tour of
 Ruby by reading code documentation written as code, that is,
