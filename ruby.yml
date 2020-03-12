@@ -37,3 +37,8 @@
   screenshot: rubyquickref-320x240.png
   link_url:   http://www.zenspider.com/Languages/Ruby/QuickRef.html
 
+- title:      "ExtendsClass - Online RegEx tester for Ruby"
+  author:     Cyril Bois
+  screenshot: extendsclass-320x240.png
+  link_url:   https://extendsclass.com/regex-tester.html#ruby
+
