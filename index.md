@@ -6,7 +6,7 @@
 - [Ruby 2.5 - Dec 25th, 2017](#ruby-25---dec-25th-2017---whats-news)
 
 
-Open Data Source:
+Open Data Sources:
 
 [`ruby30.yml`](https://github.com/planetruby/changes/blob/master/_data/ruby30.yml),
 [`ruby3x3.yml`](https://github.com/planetruby/changes/blob/master/_data/ruby3x3.yml),
