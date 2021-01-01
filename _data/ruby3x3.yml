@@ -4,10 +4,6 @@
 #  published at the Planet Ruby
 #    see https://planetruby.github.io/changes
 
-- title:    "Ruby 3×3 @ Planet Ruby"
-  subtitle: "What's Ruby 3×3? What's Optcarrot?"
-  url:       https://planetruby.github.io/calendar/ruby3x3
-
 ### add benchmark driver to "main" page in text - why? why not?
 
 - title:    "Ruby 3×3 Benchmark Results for Benchmark Driver (Experimental)"
@@ -88,8 +84,4 @@
 - title:    "Ruby 3×3: Q&A w/ Matz, Koichi, and Tenderlove"
   subtitle: "On the guild proposal, just-in-time (JIT) compilation the future of ruby performance by Jonan Scheffler, Heroku, Nov 2016"
   url:       https://blog.heroku.com/ruby-3-by-3
-
-- title:    "Latest #Ruby3×3 News Bytes"
-  subtitle: "Official Twitter Ruby 3×3 Hashtag"
-  url:       https://twitter.com/hashtag/Ruby3x3
 
