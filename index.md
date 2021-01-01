@@ -1,9 +1,17 @@
 # Ruby Changes
 
-- [Ruby 3.0 - Dec 25th, 2020](#ruby-30---dec-25th-2020---whats-news) - (Open Data Source: [`ruby30.yml`](https://github.com/planetruby/changes/blob/master/_data/ruby30.yml))
-- [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster](#ruby-3x3---ruby-3-will-be-3-times-faster---whats-news)  - (Open Data Source: [`ruby3x3.yml`](https://github.com/planetruby/changes/blob/master/_data/ruby3x3.yml))
-- [Ruby 2.6 - Dec 25th, 2018](#ruby-26---dec-25th-2018---whats-news)- (Open Data Source: [`ruby26.yml`](https://github.com/planetruby/changes/blob/master/_data/ruby26.yml))
-- [Ruby 2.5 - Dec 25th, 2017](#ruby-25---dec-25th-2017---whats-news) - (Open Data Source: [`ruby25.yml`](https://github.com/planetruby/changes/blob/master/_data/ruby25.yml))  - **Updates Welcome - Yes, You Can!**
+- [Ruby 3.0 - Dec 25th, 2020](#ruby-30---dec-25th-2020---whats-news)
+- [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster](#ruby-3x3---ruby-3-will-be-3-times-faster---whats-news)
+- [Ruby 2.6 - Dec 25th, 2018](#ruby-26---dec-25th-2018---whats-news)
+- [Ruby 2.5 - Dec 25th, 2017](#ruby-25---dec-25th-2017---whats-news)
+
+
+Open Data Source:
+
+[`ruby30.yml`](https://github.com/planetruby/changes/blob/master/_data/ruby30.yml),
+[`ruby3x3.yml`](https://github.com/planetruby/changes/blob/master/_data/ruby3x3.yml),
+[`ruby26.yml`](https://github.com/planetruby/changes/blob/master/_data/ruby26.yml),
+[`ruby25.yml`](https://github.com/planetruby/changes/blob/master/_data/ruby25.yml) - **Updates Welcome - Yes, You Can!**
 
 
 
