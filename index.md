@@ -1,7 +1,7 @@
 # Ruby Changes
 
 - [Ruby 3.0 - Dec 25th, 2020](#ruby-30---dec-25th-2020---whats-news)
-- [Ruby 3x3 - Ruby 3 Will Be 3 Times Faster](#ruby-3x3---ruby-3-will-be-3-times-faster---whats-news)
+- [Ruby 3×3 - Ruby 3 Will Be 3 Times Faster](#ruby-3x3---ruby-3-will-be-3-times-faster---whats-news)
 - [Ruby 2.6 - Dec 25th, 2018](#ruby-26---dec-25th-2018---whats-news)
 - [Ruby 2.5 - Dec 25th, 2017](#ruby-25---dec-25th-2017---whats-news)
 
@@ -24,26 +24,26 @@ An awesome collection about ruby 3.0 news:
 
 
 
-## Ruby 3x3 - Ruby 3 Will Be 3 Times Faster - What's News?
+## Ruby 3×3 - Ruby 3 Will Be 3 Times Faster - What's News?
 
 
-### Q: What's 3x3?
+### Q: What's 3×3?
 
-_3x3 => Ruby 3 will be 3 times faster in 2020_
+_3×3 => Ruby 3 will be 3 times faster in 2020_
 
-Ruby 3 - the next major update of ruby (planed for 2020) will be 3 times (3x) faster than Ruby 2.
+Ruby 3 - the next major update of ruby (planed for 2020) will be 3 times (3×) faster than Ruby 2.
 
-Note: The baseline for Ruby3x3 is 2.0 so all the improvements in 2.x will count toward the 3x goal.
+Note: The baseline for Ruby3×3 is 2.0 so all the improvements in 2.x will count toward the 3× goal.
 
 
 ### Q: What's OptCarrot?
 
 _A Nintendo Entertainment System (NES) emulator written in Ruby - running with 60 frames per seconds (fps) in Ruby 3 in 2020_
 
-An "enjoyable" benchmark for rubies to drive "Ruby 3x3: Ruby 3 will be 3 times faster".
+An "enjoyable" benchmark for rubies to drive "Ruby 3×3: Ruby 3 will be 3 times faster".
 
 The benchmark is a Nintendo Entertainment System (NES) emulator that works at 20 frames per seconds (fps) in Ruby 2.0.
-An original NES works at 60 fps. If Ruby 3x3 succeeds, we can enjoy NES games with ruby!
+An original NES works at 60 fps. If Ruby 3×3 succeeds, we can enjoy NES games with ruby!
 
 NOTE: We do not aim to create a practical NES emulator.
 There are many great emulators available today.
