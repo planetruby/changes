@@ -1,0 +1,9 @@
+exclude:
+- LICENSE.md
+- README.md
+- NOTES.md
+- _attic
+
+plugins:
+- jekyll-avatar
+- jemoji
