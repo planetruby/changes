@@ -52,3 +52,7 @@
   subtitle: "by Thomas Leitner, HexaPDF"
   url:      https://gettalong.org/blog/2020/benchmarking-rubies.html
 
+- title:    "Is Ruby 3 Actually Three Times Faster?"
+  subtitle: "by Noah Gibbs"
+  url:      https://codefol.io/posts/is-ruby-3-actually-three-times-faster/
+
