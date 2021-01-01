@@ -27,7 +27,7 @@ Ruby 3 - the next major update of ruby (planed for 2020) will be 3 times (3x) fa
 Note: The baseline for Ruby3x3 is 2.0 so all the improvements in 2.x will count toward the 3x goal.
 
 
-### Q: What's OptCarrot? [:octocat:](https://github.com/mame/optcarrot)
+### Q: What's OptCarrot?
 
 _A Nintendo Entertainment System (NES) emulator written in Ruby - running with 60 frames per seconds (fps) in Ruby 3 in 2020_
 
@@ -39,6 +39,9 @@ An original NES works at 60 fps. If Ruby 3x3 succeeds, we can enjoy NES games wi
 NOTE: We do not aim to create a practical NES emulator.
 There are many great emulators available today.
 We recommend using another emulator if you want to play a game.
+
+(Source: [optcarrot @ GitHub](https://github.com/mame/optcarrot))
+
 
 **Benchmark example**
 
