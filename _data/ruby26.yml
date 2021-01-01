@@ -4,9 +4,26 @@
 #  published at the Planet Ruby
 #    see https://planetruby.github.io/changes
 
-- title:     "Ruby 2.6.0 (Preview) Changes"
+
+- title:     "It's Official - Ruby 2.6.0 Released"
+  subtitle:  "First stable release in the Ruby 2.6 series"
+  url:        https://www.ruby-lang.org/en/news/2018/12/25/ruby-2-6-0-released/
+
+- title:     "Ruby 2.6.0 Changes"
   subtitle:  "Official changes since the 2.5.0 release"
-  url:        https://github.com/ruby/ruby/blob/v2_6_0_preview1/NEWS
+  url:        https://github.com/ruby/ruby/blob/ruby_2_6/NEWS
+
+- title:     "Standard Gems 2.6.0 - Default Gems, Bundled Gems"
+  subtitle:  "by Jan Lelis, Idiosyncratic Ruby"
+  url:        https://stdgems.org/2.6.0/
+
+
+
+- title:    "What's New in Ruby 2.6?"
+  subtitle: "by Nithin Bekal, Programmer from Ottawa @ Shopify"
+  url:      https://nithinbekal.com/posts/ruby-2-6/
+
+
 
 - title:     "Ruby 2.6.0 Preview Released"
   subtitle:  "Early 2.6.0  preview release incl. just-in-time (JIT) compiler; to use add `--jit` to the command line - Feb 2018"

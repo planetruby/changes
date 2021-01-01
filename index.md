@@ -2,6 +2,7 @@
 
 - [Ruby 3.0 - Dec 25th, 2020](#ruby-30---dec-25th-2020---whats-news)
 - [Ruby 3×3 - Ruby 3 Will Be 3 Times Faster](#ruby-33---ruby-3-will-be-3-times-faster---whats-news)
+- [Ruby 2.7 - Dec 25th, 2019](#ruby-27---dec-25th-2019---whats-news)
 - [Ruby 2.6 - Dec 25th, 2018](#ruby-26---dec-25th-2018---whats-news)
 - [Ruby 2.5 - Dec 25th, 2017](#ruby-25---dec-25th-2017---whats-news)
 
@@ -10,6 +11,7 @@ Open Data Sources:
 
 [`ruby30.yml`](https://github.com/planetruby/changes/blob/master/_data/ruby30.yml),
 [`ruby3x3.yml`](https://github.com/planetruby/changes/blob/master/_data/ruby3x3.yml),
+[`ruby27.yml`](https://github.com/planetruby/changes/blob/master/_data/ruby27.yml),
 [`ruby26.yml`](https://github.com/planetruby/changes/blob/master/_data/ruby26.yml),
 [`ruby25.yml`](https://github.com/planetruby/changes/blob/master/_data/ruby25.yml) - **Updates Welcome - Yes, You Can!**
 
@@ -76,6 +78,15 @@ An awesome collection about ruby 3×3 news, benchmarks and more:
 
 {% include ruby3x3.html %}
 
+
+
+
+## Ruby 2.7 - Dec 25th, 2019 - What's News?
+
+An awesome collection about ruby 2.7 news:
+
+
+{% include ruby27.html %}
 
 
 ## Ruby 2.6 - Dec 25th, 2018 - What's News?

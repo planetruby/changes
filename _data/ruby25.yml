@@ -17,6 +17,11 @@
   subtitle:  "by Jan Lelis, Idiosyncratic Ruby"
   url:        https://stdgems.org/2.5.0/
 
+
+- title:    "What's New in Ruby 2.5?"
+  subtitle: "by Nithin Bekal, Programmer from Ottawa @ Shopify"
+  url:      http://nithinbekal.com/posts/ruby-2-5-features
+
 - title:     "10 New Features in Ruby 2.5"
   subtitle:  "by Junichi Ito, Ruby programmer @ SonicGarden.jp"
   url:        https://blog.jetbrains.com/ruby/2017/10/10-new-features-in-ruby-2-5/
@@ -56,10 +61,6 @@
 - title:    "Changes in Ruby 2.5"
   subtitle: "by Kir Shatrov, Production Engineer @ Shopify"
   url:      http://iempire.ru/2017/12/26/ruby-2-5
-
-- title:    "What's New in Ruby 2.5?"
-  subtitle: "by Nithin Bekal, Programmer from Ottawa @ Shopify"
-  url:      http://nithinbekal.com/posts/ruby-2-5-features
 
 - title:    "New Features in Ruby 2.5"
   subtitle: "by Rodrigo Ponce de León, Ruby developer @ WyeWorks"

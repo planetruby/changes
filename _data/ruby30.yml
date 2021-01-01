@@ -21,8 +21,14 @@
   subtitle:   "by Victor Shepelev, Ruby References"
   url:        "https://rubyreferences.github.io/rubychanges/3.0.html"
 
+
+
+- title:    "What's New in Ruby 3.0?"
+  subtitle: "by Nithin Bekal, Programmer from Ottawa @ Shopify"
+  url:      https://nithinbekal.com/posts/ruby-3-0/
+
 - title:    "Ruby 3.0 Series"
-  subtitle: "by Datt Dongare, et al @ BigBinary"
+  subtitle: "by Akhil Gautam, Datt Dongare, et al @ BigBinary"
   url:       https://bigbinary.com/blog/categories/ruby-3
 
 
@@ -46,6 +52,3 @@
   subtitle: "by Thomas Leitner, HexaPDF"
   url:      https://gettalong.org/blog/2020/benchmarking-rubies.html
 
-- title:    "What's New in Ruby 3.0?"
-  subtitle: "by Nithin Bekal, Programmer from Ottawa @ Shopify"
-  url:      https://nithinbekal.com/posts/ruby-3-0/

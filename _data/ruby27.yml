@@ -1,0 +1,26 @@
+#############################
+#  ruby 2.7 news bytes
+#
+#  published at the Planet Ruby
+#    see https://planetruby.github.io/changes
+
+
+
+
+- title:     "It's Official - Ruby 2.7.0 Released"
+  subtitle:  "First stable release in the Ruby 2.7 series"
+  url:        https://www.ruby-lang.org/en/news/2019/12/25/ruby-2-7-0-released/
+
+- title:     "Ruby 2.7.0 Changes"
+  subtitle:  "Official changes since the 2.6.0 release"
+  url:        https://github.com/ruby/ruby/blob/ruby_2_7/NEWS
+
+- title:     "Standard Gems 2.7.0 - Default Gems, Bundled Gems"
+  subtitle:  "by Jan Lelis, Idiosyncratic Ruby"
+  url:        https://stdgems.org/2.7.0/
+
+
+- title:    "What's New in Ruby 2.7?"
+  subtitle: "by Nithin Bekal, Programmer from Ottawa @ Shopify"
+  url:      https://nithinbekal.com/posts/ruby-2-7/
+
