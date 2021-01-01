@@ -56,7 +56,11 @@ We recommend using another emulator if you want to play a game.
 
 **Benchmark example**
 
+<!--
 ![](https://raw.githubusercontent.com/mame/optcarrot/master/doc/benchmark-summary.png)
+-->
+
+![](https://raw.githubusercontent.com/mame/optcarrot/master/doc/benchmark-summary-3000.png)
 
 See [Rubies Benchmark with Optcarrot](https://github.com/mame/optcarrot/blob/master/doc/benchmark.md) for the measurement condition and some more charts.
 
